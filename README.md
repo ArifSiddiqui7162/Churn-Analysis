@@ -39,12 +39,6 @@ To build a predictive model that identifies customers likely to churn, helping b
 
 ---
 
-## 🚀 How to Run
-
-1. Clone the repo.
-2. Open the Jupyter notebooks.
-3. Run all cells in the given order.
-
 ---
 
 ## ✨ Author
